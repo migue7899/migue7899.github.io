@@ -3,16 +3,16 @@
 ```javascript
 Miguel Pabon = {
 code: [
-"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
-"BIG DATA & MACHINE LEARNING",
-"DEVOPS",
+"INGENIERO SISTEMAS","SERVIDORES",
+"FORTINET",
+"POWER BI",
 "CIBERSEGURIDAD",
-"BLOCKCHAIN"],
+"TABLEAU"],
 technologies:[
 "Cursos Online",
 "Webbinars",
 "BootCamps",
 ]
 },
-homePage: "https://justcodeit.io/"
+homePage: "https://maph.com/"
 };
